@@ -1,0 +1,25 @@
+.text-final{
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    color: black;
+    background-color: rgb(189, 239, 189);
+}
+
+.text-center{
+    text-align: end;
+    color: black;
+    background-color: rgb(189, 239, 189);
+    border-radius: 10px;
+}
+
+.resp-bot{
+    color:black;
+    background-color: rgb(213, 157, 255);
+    border-radius: 10px;
+}
+
+body{
+    margin: 10px;
+    padding: 10px;
+}
